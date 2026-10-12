@@ -46,17 +46,17 @@ SAP · Windows · Linux · IIS · Git · REST APIs
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakhdar-blk&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakhdar-blk&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=lakhdar-blk&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🏅 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=8)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lakhdar-blk&theme=tokyonight&no-frame=true&margin-w=8)
 
 ---
 
